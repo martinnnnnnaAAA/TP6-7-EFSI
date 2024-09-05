@@ -1,0 +1,10 @@
+.h1 {
+    color: white;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 42px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}

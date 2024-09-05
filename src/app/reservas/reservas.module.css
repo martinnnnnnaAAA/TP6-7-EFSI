@@ -1,0 +1,18 @@
+/* reservas.module.css */
+
+.container {
+    margin: 0px auto;
+    width: 80%;
+    max-width: 960px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .one-half {
+    width: calc(50% - 10px);
+  }
+  
+  
